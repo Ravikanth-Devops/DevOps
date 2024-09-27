@@ -1,0 +1,88 @@
+https://www.youtube.com/watch?v=HckRGumUeDk
+
+https://www.youtube.com/watch?v=BybAetckH88
+
+
+gcp
+https://www.youtube.com/watch?v=IUU6OR8yHCc
+https://www.youtube.com/watch?v=m6ozQnqit50
+
+
+git/GitHub
+https://www.youtube.com/watch?v=LGLuHYHbCFA
+
+jobsearch
+relevel
+nxtwave
+
+python:
+https://www.youtube.com/watch?v=n0zEsDkwwQs
+https://www.youtube.com/watch?v=n0zEsDkwwQs
+https://www.youtube.com/watch?v=dJdBYfgmqwo
+
+https://www.youtube.com/watch?v=WHY3bz5_QdI
+
+https://drive.google.com/file/d/15tAQT7N4BFKhffym-J03HhDT3XPvGE0L/view?usp=drivesdk
+
+
+DevOps Roadmap:
+https://www.youtube.com/watch?v=PcHovhjRp3U
+ DevOps
+ 1) what, why
+ 2) linux
+     fundamentals, vm, virtualization, hypervisor
+ 3) shell commands, shell scripts
+ 4) GIT version controlling (svn, cvs)
+    GitHub
+ 5) Ansible
+ 6) basics of terraform
+ 7) CI/CD, Jenkins------GitHub actions
+ 8) Docker/containers
+ 9) Kubernetes
+ 10) observability
+
+ 11) cloud aws/azure gcp
+            cloud platform
+	    IAM
+            compute service
+            vpc
+            storage services
+            ci/cd on cloud            
+            monitors...............nodes, cronjobs, stale
+            serverless functions
+            Kubernetes
+            ci/cd implement GitHub principles
+            compliance
+            iac...terraform
+12) terraform
+      what is it
+      providers
+      init, plan, apply
+      state file
+      ptovisions
+      secrets
+      variables precedence
+13) python
+     basics
+     variables, data types
+     expressions
+     functions
+     loops, modules 
+     file operations, github-webhook-jira
+
+https://www.youtube.com/watch?v=7pT0oviBZk0
+  Linux
+  git/GitHub
+  cloud
+  docker
+  kubernetis
+  
+  ansible
+  circle ci
+  terraform
+  
+https://www.youtube.com/watch?v=a6d34f9c8bU
+
+
+shell script interviews questions:
+https://www.youtube.com/watch?v=0jgqMKuADX0
